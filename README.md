@@ -12,6 +12,13 @@ Welcome to my Machine Learning portfolio! This repository showcases various ML p
 
 ---
 
+### 🍽️ [Restaurant Recommendation System](./Restaurant%20Recommendation%20System/)  
+Suggest restaurants based on your preferred cuisine using a content-based filtering approach.  
+Utilizes cosine similarity and feature combination for personalized recommendations.  
+→ [Go to Project Folder](./Restaurant%20Recommendation%20System/)
+
+---
+
 
 ## 🧠 Tools & Technologies Used
 
