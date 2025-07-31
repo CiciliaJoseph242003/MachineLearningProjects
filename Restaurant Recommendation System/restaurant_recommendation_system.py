@@ -6,7 +6,7 @@ uploaded=files.upload()
 import pandas as pd
 import io
 
-df=pd.read_csv(io.BytesIO(uploaded['Dataset  (1).csv']))
+df=pd.read_csv(io.BytesIO(uploaded['Dataset .csv']))
 
 drop_cols = ['Restaurant ID', 'Address', 'Locality',
              'Locality Verbose', 'Switch to order menu', 'Rating color', 'Rating text']
