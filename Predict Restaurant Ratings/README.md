@@ -18,7 +18,6 @@ This project predicts restaurant ratings based on features like location, cost, 
 
 - `predict_restaurant_ratings_.py` — Main Python script
 - `Dataset.csv` — Input dataset (rename if needed)
-- `requirements.txt` — Python dependencies
 
 ---
 
